@@ -3,12 +3,14 @@
 ## TODO:
 
 - [ ] Linked Lists
-    - [ ] Insert at head
-    - [ ] insert at tail
-    - [ ] Insert at pos
-    - [ ] Delete head
-    - [ ] Delete tail
-    - [ ] Delete at pos
+    - [x] Create linked list
+    - [x] Insert at head
+    - [x] insert at tail
+    - [x] Insert at pos
+    - [x] Delete head
+    - [x] Delete tail
+    - [x] Delete at pos
+    - [ ] Sort
 - [ ] Trees
     - [ ] Binary tree
         - [ ] Create binary tree
